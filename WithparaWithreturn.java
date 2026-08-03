@@ -9,3 +9,4 @@ public class WithparaWithreturn {
         System.out.println("Sum " + result);
     }
 }
+Output : Sum 15
