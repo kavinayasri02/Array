@@ -8,3 +8,4 @@ public class WithparaNoreturn {
         greetUser("Kavinayasri" ,20);
     }
 }
+Output : Hello Kavinayasri you are 20 years old
