@@ -8,3 +8,4 @@ public class NoparaNoreturn {
         greet();
     }
 }
+output : Hello,Welcome to java
