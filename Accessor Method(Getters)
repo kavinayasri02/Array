@@ -1,0 +1,8 @@
+class Account{
+private int balance = 200;
+public int getBalanace(){ return balance;}
+public static void main(String[]args){
+Account acc = new Account();
+System.out.println("Balance: " + acc.getBalance());
+}
+}
