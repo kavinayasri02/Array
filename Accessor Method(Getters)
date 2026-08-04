@@ -6,3 +6,4 @@ Account acc = new Account();
 System.out.println("Balance: " + acc.getBalance());
 }
 }
+Output : 200
