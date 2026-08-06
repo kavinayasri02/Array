@@ -12,3 +12,5 @@ public class OddEvenSum {
         }
     }
 }
+output : 11 is odd
+    12 is even
