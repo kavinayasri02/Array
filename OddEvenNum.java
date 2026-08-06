@@ -10,3 +10,6 @@ public class OddEvenNum{
         }
     }
 }
+
+Output : 5 is odd 
+    6 is even
