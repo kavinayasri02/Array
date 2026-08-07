@@ -16,3 +16,4 @@ public class insertmid {
         }
     }
 }
+Output : 10 20 25 30 40 50 60 
