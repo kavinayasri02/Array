@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class removeduplicates {
     public static void main(String[] args) {
         Scanner kavi = new Scanner(System.in);
-        int sri = kavi.nextInt();
+        int s = kavi.nextInt();
         int arr[] = new int[sri];
         for(int i = 0;i<sri;i++){
             arr[i] = kavi.nextInt();
         }
-        int size = sri;
+        int size = s;
         for(int i =0;i<size;i++){
             for(int j = i+1;j<size;j++){
                 if(arr[i] == arr[j]){
