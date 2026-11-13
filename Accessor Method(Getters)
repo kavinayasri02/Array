@@ -1,4 +1,5 @@
-class Account{
+import java.util.*;
+public class Account{
 private int balance = 200;
 public int getBalanace(){ return balance;}
 public static void main(String[]args){
