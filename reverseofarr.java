@@ -14,3 +14,7 @@ public class reverseofarr{
         System.out.println();
     }
 }
+output :
+5
+    1 2 3 4 5
+    5 4 3 2 1
