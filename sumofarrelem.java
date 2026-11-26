@@ -12,3 +12,8 @@ public class sumofarrelem{
         System.out.print("The Sum of array elements are :" + sum);
     }
 }
+
+output :
+5
+    1 2 3 4 5 
+    15
